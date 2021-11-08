@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\bin\Debug\netcoreapp3.1\ConsoleWebApi.exe
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\bin\Debug\netcoreapp3.1\ConsoleWebApi.deps.json
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\bin\Debug\netcoreapp3.1\ConsoleWebApi.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\bin\Debug\netcoreapp3.1\ConsoleWebApi.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\bin\Debug\netcoreapp3.1\ConsoleWebApi.dll
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\bin\Debug\netcoreapp3.1\ConsoleWebApi.pdb
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\obj\Debug\netcoreapp3.1\ConsoleWebApi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\obj\Debug\netcoreapp3.1\ConsoleWebApi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\obj\Debug\netcoreapp3.1\ConsoleWebApi.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\obj\Debug\netcoreapp3.1\ConsoleWebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\obj\Debug\netcoreapp3.1\ConsoleWebApi.dll
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\obj\Debug\netcoreapp3.1\ConsoleWebApi.pdb
+C:\Users\User\source\repos\ConsoleRESTful\ConsoleWebApi\obj\Debug\netcoreapp3.1\ConsoleWebApi.genruntimeconfig.cache
